@@ -1,0 +1,9 @@
+# python 3.11.0
+requests==2.31.0
+beautifulsoup4==4.12.3
+pandas==2.2.2
+pydantic==2.7.1
+celery==5.4.0
+redis==5.0.4
+fastapi==0.111.0
+bertopic==0.16.1
