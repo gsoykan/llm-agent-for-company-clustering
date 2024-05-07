@@ -79,7 +79,8 @@ The application is containerized using Docker.
     fastapi run server.py
     ```
 **NOTE:** if you run it locally - you need to update the configuration for celery broker and backend urls.
-**NOTE:** have GEMINI_API_KEY in .env file.
+
+**NOTE 2:** have GEMINI_API_KEY in .env file.
 
 ## Usage
 
